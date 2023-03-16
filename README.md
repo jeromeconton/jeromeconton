@@ -24,19 +24,11 @@
 
 ## &#x1F449; Compétences techniques
 
-<img src="./assets/images/icons8-html-5-48.png" alt="html">  
-<img src="./assets/images/icons8-css3-48.png" alt="css">
-<img src="./assets/images/icons8-javascript-48.png" alt="postgresql">
-<img src="./assets/images/icons8-express-js-48.png" alt="express">
-<img src="./assets/images/icons8-nodejs-48.png" alt="nodejs">
-<img src="./assets/images/icons8-postgresql-48.png" alt="postgresql">
-<img src="./assets/images/icons8-mongodb-48.png" alt="mongodb">
-<img src="./assets/images/icons8-react-48.png" alt="react">
-<img src="./assets/images/icons8-github-48.png" alt="github">  
+<img src="./assets/images/icons8-html-5-48.png" alt="html"><img src="./assets/images/icons8-css3-48.png" alt="css"><img src="./assets/images/icons8-javascript-48.png" alt="postgresql"><img src="./assets/images/icons8-express-js-48.png" alt="express"><img src="./assets/images/icons8-nodejs-48.png" alt="nodejs"><img src="./assets/images/icons8-postgresql-48.png" alt="postgresql"><img src="./assets/images/icons8-mongodb-48.png" alt="mongodb"><img src="./assets/images/icons8-react-48.png" alt="react"><img src="./assets/images/icons8-github-48.png" alt="github">  
 
 Connaissances : 
 - des langages web : HTML, CSS, JavaScript.
-- de la mise en place de bases de données : PostgreSQL, MongoDB puis Node.js pour le back.
+- de la mise en place de bases de données : PostgreSQL, MongoDB puis Node.js et Express.js pour le back.
 - de GitHub et de la gestion des versions.
 
  
